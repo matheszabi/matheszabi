@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Here is some PUBLIC source codes.
+
+Mostly proof of concepts or job assignments.
+
 <!--
 **matheszabi/matheszabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
