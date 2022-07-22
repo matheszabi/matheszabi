@@ -60,7 +60,7 @@ https://github.com/matheszabi/artandlogic
 It is an assigment for an Android job interview.
 
 
-"Chelner Rapid" it is a concept where ar restaurant the waitress should use some POS units and it would reduce  the overhelm of workforce in peak seasons:
+https://github.com/matheszabi/matheszabi/blob/main/ChelnerRapid.pdf  it is a concept where ar restaurant the waitress should use some POS units and it would reduce  the overhelm of workforce in peak seasons:
 ![pdf screenshot](/ChelnerRapid.png?raw=true "ChelnerRapid.png")
 
 
