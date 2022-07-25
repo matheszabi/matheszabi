@@ -7,10 +7,11 @@ Mostly proof of concepts or job assignments. Some are from 2013-2015.
 
 https://github.com/matheszabi/nature_images_flutterhttps://github.com/matheszabi/nature_images_flutter
 
-has a working splash screen, not just a 1x1 pixel image stretched to full screen, but a full size image.
-has application icons ( generated with a library, which is removed, because it is a one-time use tool).
-has a loading screen (with 3 color gradients) and a status message about what is doing right now.
-the loading screen when it finishes and it will go to home screen, it will remove the possibility to come back to this screen (Android press the Back button)
+-has a working splash screen, not just a 1x1 pixel image stretched to full screen, but a full size image.
+-has application icons ( generated with a library, which is removed, because it is a one-time use tool).
+-has a loading screen (with 3 color gradients) and a status message about what is doing right now.
+-the loading screen when it finishes and it will go to home screen, it will remove the possibility to come back to this screen (Android press the Back button)
+
 It will do an HTTP GET and it will receive a JSON and it will parse it to "model" objects. Plain Old Dart Objects (podo).
 It will load the thumbnails (smaller images) and it will build a list.
 with Prev and Next it implemented the infinite scrolling list.
