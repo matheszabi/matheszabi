@@ -4,11 +4,23 @@ Here are some PUBLIC source code.
 
 Mostly proof of concepts or job assignments. Some are from 2013-2015.
 
+
+https://github.com/matheszabi/nature_images_flutterhttps://github.com/matheszabi/nature_images_flutter
+
+has a working splash screen, not just a 1x1 pixel image stretched to full screen, but a full size image.
+has application icons ( generated with a library, which is removed, because it is a one-time use tool).
+has a loading screen (with 3 color gradients) and a status message about what is doing right now.
+the loading screen when it finishes and it will go to home screen, it will remove the possibility to come back to this screen (Android press the Back button)
+It will do an HTTP GET and it will receive a JSON and it will parse it to "model" objects. Plain Old Dart Objects (podo).
+It will load the thumbnails (smaller images) and it will build a list.
+with Prev and Next it implemented the infinite scrolling list.
+Clicking on the list it shows the details of the element (another info which is a bigger, scrollable image).
+
 https://github.com/matheszabi/the_village_mobile_flutter_with_tests
 flutter: working with forms, keys, and testing it.
 
 https://github.com/matheszabi/CellTowerInfo_iOS_SwiftUI
-Swift with SwiftUI. Saddly, after iOS 8.3 the GSM tower info private API is well protected and can't be accesed, so just network info left for us.
+Swift with SwiftUI. Sadly, after iOS 8.3 the GSM tower info private API is well protected and can't be accessed, so just network info left for us.
 
 https://github.com/matheszabi/sleepcountdown_flutter
 Flutter, working with date chooser component, bottom sheet,  it has widget tests too.
