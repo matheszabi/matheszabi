@@ -4,8 +4,7 @@ Here are some PUBLIC source code.
 
 Mostly proof of concepts or job assignments. Some are from 2013-2015.
 
-
-https://github.com/matheszabi/nature_images_flutterhttps://github.com/matheszabi/nature_images_flutter
+https://github.com/matheszabi/nature_images_flutter
 
 -has a working splash screen, not just a 1x1 pixel image stretched to full screen, but a full size image.
 -has application icons ( generated with a library, which is removed, because it is a one-time use tool).
