@@ -4,6 +4,11 @@ Here are some PUBLIC source code.
 
 Mostly proof of concepts or job assignments. Some are from 2013-2015.
 
+https://github.com/matheszabi/TomcatConnectionsHack
+Tomcat is an old friend. It is simple and is blamed :)
+Here I shown how can be extended the default 200 concurent connections to 8k, but can be extended to even more!
+
+
 https://github.com/matheszabi/nature_images_flutter
 
 -has a working splash screen, not just a 1x1 pixel image stretched to full screen, but a full size image.
